@@ -48,12 +48,7 @@ Unlike generic coding bots, OS-Maintainer is designed for **Safety and Trust**:
     ```bash
     docker compose up -d
     ```
-
-4.  **Open the Tunnel**
-    ```bash
-    ngrok http 8080
-    ```
-
+    
 ## 🧪 Usage
 
 1.  Create a new Branch: `git checkout -b feature/test-bot`
